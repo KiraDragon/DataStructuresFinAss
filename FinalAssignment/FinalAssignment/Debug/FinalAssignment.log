@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\admin\source\repos\finalassignment\finalassignment\siterator.h(49): warning C4715: 'SIterator<Entity *>::operator++': not all control paths return a value
+  FinalAssignment.vcxproj -> C:\Users\admin\source\repos\FinalAssignment\Debug\FinalAssignment.exe
